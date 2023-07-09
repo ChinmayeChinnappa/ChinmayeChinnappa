@@ -12,7 +12,6 @@ Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 Vidya Vikas Institute Of Engineering and Technology, Mysuru                                                                 2017 - 2021                                          
 B.E  Electronics and Communication                                            
 Courses: Programming with Python,  
-Highlight: Secured First place in VIT-NSD 2023’s “WoW factor” by presenting an idea on “MadeofMaths”
 
 
 SKILLS & CERTIFICATIONS
