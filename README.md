@@ -1,11 +1,12 @@
 CHINMAYE CHINNAPPA H E
 
-chinmayechinnu123@gmail.com | +919483280880 | Bangalore, India 
+ Bangalore, India 
               
 
 EDUCATION
 
 Data Science Bootcamp, Jovian                                                                                               Mar 2023 - Ongoing
+
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 
@@ -21,17 +22,20 @@ Skill: Python, Pandas, Web Scraping, Numpy, SQL, Data Analysis & Visualization, 
 
 PROJECTS 
 
-Exploratory Data Analysis on Apple App Store Dataset from Kaggle (View)
+Exploratory Data Analysis on Apple App Store Dataset from Kaggle:
+
 Cleaned & analyzed data for 1.2M+ apps data containing 21 columns using Pandas
 Created visualizations (WordCloud, Histogram,Funnel, pie charts etc.) using Seaborn, matplotlib & Plotly
 Discovered that most popular developers, app category, app type and rating pattern.
 
-Bookshop Analysis Using Excel and Tableau (View) 
+Bookshop Analysis Using Excel and Tableau:
+
 Analyzed the dataset of 59 books containing different sheets using Pivot Tables, Vlookup in Excel 
 Loaded the dataset in tableau and created a dashboard having map, bar plot, packed bubbles etc 
 Discovered that the most popular book by sales and  ratings is “The Mallemarorking”.
 
-Used Car Price Prediction using Machine Learning (View)
+Used Car Price Prediction using Machine Learning: 
+
 Worked with “uncovering-factors-that-affect-used-car-prices” from Kaggle containing 371k rows with 21 categories
 Created and trained a Machine model using Ridge Regression, Random Forest and Gradient Boosting.
 Obtained Training RMSE : 3016, Validation RMSE : 3474, Test RMSE : 3590 on dataset, After experimenting with 4 sets of hyperparameters.
