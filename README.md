@@ -67,9 +67,24 @@ B.E Electronics and Communication | 2017 – 2021 | CGPA: 7.7
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/> </a> 
-<a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/testng/images/testng.png" alt="testng" width="40" height="40"/> </a> 
-<a href="https://junit.org/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/> 
+</a> 
+<a href="https://testng.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://static.javatpoint.com/tutorial/testng/images/testng.png" alt="testng" width="40" height="40"/> 
+</a> 
+<a href="https://junit.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> 
+</a> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Cucumber_Logo.png" alt="cucumber" width="40" height="40"/> 
+</a> 
