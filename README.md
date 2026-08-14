@@ -28,7 +28,7 @@ B.E Electronics and Communication | 2017 – 2021 | CGPA: 7.7
 ---
 
 ### 🛠️ Technical Skills
-- **Automation Tools:** Selenium, Cucumber, UFT (LeanFT)  
+- **Automation Tools:** Selenium, Playwright
 - **Programming Languages:** Java, Python (basic), SQL  
 - **API Testing Tools:** Postman, Rest Assured  
 - **CI/CD & Version Control:** Jenkins, Git  
@@ -55,7 +55,7 @@ B.E Electronics and Communication | 2017 – 2021 | CGPA: 7.7
 - 👨‍💻 My automation projects are available here on GitHub  
 - 💬 Ask me about **Selenium, TestNG, Maven, Rest Assured, Jenkins, Rally**  
 - 📫 Reach me at **chinmayechinnu123@gmail.com**  
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1i5vFhCvWtz2YngBh3-MYfyGDweS5gtmNsbOcIvhSWOY/edit#heading=h.brwqp9n3f45n)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oXiSHI_0Hoj9Uxvuu_l4pSy0XvO3rbqU/view)  
 
 ---
 
