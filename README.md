@@ -1,75 +1,75 @@
 <h1 align="center">Hi 👋, I'm Chinmaye Chinnappa H E from Bangalore, India</h1>
-<h3 align="center">A passionate data science practitioner</h3>
+<h3 align="center">Automation Engineer | SDET Aspirant</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayechinnappa&label=Profile%20views&color=0e75b6&style=flat" alt="chinmayechinnappa" /> </p>
 
+---
 
+### 🎓 Education
+**Vidya Vikas Institute of Engineering and Technology, Mysore**  
+B.E Electronics and Communication | 2017 – 2021 | CGPA: 7.7  
 
-EDUCATION
+---
 
-Data Science Bootcamp, Jovian                                                                                               JAN 2023 - Ongoing
+### 💼 Work Experience
+**Automation Engineer – Infosys, Bangalore** *(Feb 2025 – Present)*  
+- Designed and executed automation test cases using **Selenium WebDriver, TestNG, and Maven**.  
+- Leveraged **GitHub Copilot** to accelerate test case creation and implementation.  
+- Managed test planning and tracking in **Rally (Agile Central)**.  
+- Performed **API testing** and database validations using **MySQL**.  
+- Configured and maintained **Jenkins pipelines** for CI/CD.  
 
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
+**Automation Engineer – Tata Consultancy Services, Bangalore** *(Oct 2021 – Feb 2025)*  
+- Automated end-to-end testing procedures using **Selenium, Java, TestNG, and Cucumber**.  
+- Conducted RESTful API testing using **Postman and REST Assured**.  
+- Collaborated within Agile and Scrum frameworks for sprint planning and delivery.  
 
-Vidya Vikas Institute Of Engineering and Technology, Mysuru                                                                 2017 - 2021                                          
-B.E  Electronics and Communication                                            
-Courses: Programming with Python,  
+---
 
+### 🛠️ Technical Skills
+- **Automation Tools:** Selenium, Cucumber, UFT (LeanFT)  
+- **Programming Languages:** Java, Python (basic), SQL  
+- **API Testing Tools:** Postman, Rest Assured  
+- **CI/CD & Version Control:** Jenkins, Git  
+- **Test Management:** Jira, Rally  
+- **Frameworks:** TestNG, JUnit, Cucumber  
 
-SKILLS & CERTIFICATIONS
+---
 
-* Online Courses: Data Analysis With Python - Jovian
-* Skill: Python, Pandas, Web Scraping, Numpy, SQL, Data Analysis & Visualization, Java, Microsoft Excel , Tableau, Power BI,  Machine Learning.
+### 🚀 Projects
+**Lloyds Banking Group – Web Application & API Testing**  
+- Built automation modules for regression, smoke, and REST API tests using **Cucumber, Java, Gherkin, Maven**.  
+- Configured **Jenkins jobs**, integrated with Nexus and GitHub, and generated **Allure/Cucumber reports**.  
+- Integrated test outputs with **Jira** for seamless tracking.  
 
-PROJECTS 
+**Truist – Web Application & API Testing**  
+- Automated regression and API tests using **Selenium, Rest Assured, TestNG, Java, Maven**.  
+- Configured Jenkins jobs, integrated with Nexus and GitHub, and generated **Extent reports**.  
+- Integrated test outputs with **Rally** for tracking.  
+- Leveraged **AI-powered tools (GitHub Copilot)** to accelerate test case creation and implementation.  
 
-Exploratory Data Analysis on Apple App Store Dataset from Kaggle:
+---
 
-* Cleaned & analyzed data for 1.2M+ apps data containing 21 columns using Pandas
-* Created visualizations (WordCloud, Histogram,Funnel, pie charts etc.) using Seaborn, matplotlib & Plotly
-* Discovered that most popular developers, app category, app type and rating pattern.
+- 🌱 I’m currently learning **Playwright Java & Advanced Automation Frameworks**  
+- 👨‍💻 My automation projects are available here on GitHub  
+- 💬 Ask me about **Selenium, TestNG, Maven, Rest Assured, Jenkins, Rally**  
+- 📫 Reach me at **chinmayechinnu123@gmail.com**  
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1i5vFhCvWtz2YngBh3-MYfyGDweS5gtmNsbOcIvhSWOY/edit#heading=h.brwqp9n3f45n)  
 
-Bookshop Analysis Using Excel and Tableau:
-
-* Analyzed the dataset of 59 books containing different sheets using Pivot Tables, Vlookup in Excel 
-* Loaded the dataset in tableau and created a dashboard having map, bar plot, packed bubbles etc 
-* Discovered that the most popular book by sales and  ratings is “The Mallemarorking”.
-
-Used Car Price Prediction using Machine Learning: 
-
-* Worked with “uncovering-factors-that-affect-used-car-prices” from Kaggle containing 371k rows with 21 categories
-* Created and trained a Machine model using Ridge Regression, Random Forest and Gradient Boosting.
-* Obtained Training RMSE : 3016, Validation RMSE : 3474, Test RMSE : 3590 on dataset, After experimenting with 4 sets of hyperparameters.
-
-
-  
-
-- 🌱 I’m currently learning **Data Science and Python**
-
-- 👨‍💻 All of my projects are available at [Jovian](https://jovian.com/chinmayechinnu123)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@chinmayechinnappa)
-
-- 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA**
-
-- 📫 How to reach me **chinmayechinnu123@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1i5vFhCvWtz2YngBh3-MYfyGDweS5gtmNsbOcIvhSWOY/edit#heading=h.brwqp9n3f45n)
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chinmaye-chinnappa-h-e-823814210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chinmaye-chinnappa-h-e-823814210/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@chinmayechinnappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@chinmayechinnappa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chinmaye-chinnappa-h-e-823814210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://medium.com/@chinmayechinnappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmayechinnappa&show_icons=true&locale=en&layout=compact" alt="chinmayechinnappa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmayechinnappa&show_icons=true&locale=en" alt="chinmayechinnappa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayechinnappa&" alt="chinmayechinnappa" /></p>
-
+<p align="left"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/> </a> 
+<a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/testng/images/testng.png" alt="testng" width="40" height="40"/> </a> 
+<a href="https://junit.org/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
